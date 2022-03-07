@@ -1,0 +1,8 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, rgb(142, 142, 199), rgb(99, 62, 62));
+}
